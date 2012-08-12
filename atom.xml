@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://nitinyadav.github.com/atom.xml" rel="self"/>
   <link href="http://nitinyadav.github.com/"/>
-  <updated>2012-08-13T01:31:44+05:30</updated>
+  <updated>2012-08-13T02:44:35+05:30</updated>
   <id>http://nitinyadav.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Post]]></title>
+    <link href="http://nitinyadav.github.com/blog/2012/08/13/post/"/>
+    <updated>2012-08-13T02:37:00+05:30</updated>
+    <id>http://nitinyadav.github.com/blog/2012/08/13/post</id>
+    <content type="html"><![CDATA[<p>Lets see how it looks :)</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[HelloWorld]]></title>
+    <link href="http://nitinyadav.github.com/blog/2012/08/13/helloworld/"/>
+    <updated>2012-08-13T02:22:00+05:30</updated>
+    <id>http://nitinyadav.github.com/blog/2012/08/13/helloworld</id>
+    <content type="html"><![CDATA[<p>Hey Guys!! My First post from octopress !</p>
+]]></content>
+  </entry>
   
 </feed>
