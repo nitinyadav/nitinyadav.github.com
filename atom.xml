@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://nitinyadav.github.com/atom.xml" rel="self"/>
   <link href="http://nitinyadav.github.com/"/>
-  <updated>2012-08-13T02:58:25+05:30</updated>
+  <updated>2012-08-13T02:59:05+05:30</updated>
   <id>http://nitinyadav.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -18,10 +18,10 @@
     <link href="http://nitinyadav.github.com/blog/2012/08/13/steps-to-post/"/>
     <updated>2012-08-13T02:51:00+05:30</updated>
     <id>http://nitinyadav.github.com/blog/2012/08/13/steps-to-post</id>
-    <content type="html"><![CDATA[<p>Steps to publish a post on octopress:<br/>
-rake preview<br/>
-rake generate</br>
-rake deploy
+    <content type="html"><![CDATA[<p>Steps to publish a post on octopress:
+Rake preview
+Rake generate
+Rake deploy
 Thats all.. Happy Blogging !!</p>
 ]]></content>
   </entry>
